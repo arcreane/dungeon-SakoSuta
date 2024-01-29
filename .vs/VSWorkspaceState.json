@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Dungeon"
+    "\\Dungeon",
+    "\\Dungeon\\Characters",
+    "\\Dungeon\\GameElements",
+    "\\Dungeon\\Interface",
+    "\\Dungeon\\Protections",
+    "\\Dungeon\\UI",
+    "\\Dungeon\\Weapons"
   ],
-  "SelectedNode": "\\Dungeon.sln",
+  "SelectedNode": "\\Dungeon\\Weapons\\Weapon.cs",
   "PreviewInSolutionExplorer": false
 }

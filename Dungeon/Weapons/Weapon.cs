@@ -6,10 +6,9 @@ using System.Text;
 
 public struct Weapon {
 
-    public Weapon() {
+    private int m_iHitPoints
+
+    public Weapon(p_iHintPoint) {
+        m_iHitPoints = p_iHintPoint;
     }
-
-
-
-
 }
